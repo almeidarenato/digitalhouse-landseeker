@@ -4,4 +4,4 @@ Site utilizado como exemplo para treinamento de media queries
 
 #### Link para acesso:
 
-https://github.com/almeidarenato/digitalhouse-landseeker.git
+https://almeidarenato.github.io/digitalhouse-landseeker/
